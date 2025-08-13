@@ -1,0 +1,7 @@
+getting-started-backups
+*.lck
+fp-info-cache
+fp-lib-table
+*.kicad_prl
+*.bak
+sym-lib-table
