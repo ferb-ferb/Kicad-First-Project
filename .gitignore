@@ -5,3 +5,4 @@ fp-lib-table
 *.kicad_prl
 *.bak
 sym-lib-table
+*.kicad_sym
