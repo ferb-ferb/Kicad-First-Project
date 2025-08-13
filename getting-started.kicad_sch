@@ -1594,7 +1594,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "getting-started:Untitled"
+		(property "Footprint" "getting-started:M2011S3A1W03"
 			(at 115.57 89.916 0)
 			(effects
 				(font
