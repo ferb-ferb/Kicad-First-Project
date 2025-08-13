@@ -531,7 +531,7 @@
 			)
 		)
 	)
-	(footprint "getting-started:Untitled"
+	(footprint "getting-started:M2011S3A1W03"
 		(layer "F.Cu")
 		(uuid "cc218ae9-2db2-4c15-99b4-5ad459b00310")
 		(at 156 89.6)
@@ -597,7 +597,7 @@
 				(type default)
 			)
 			(layer "F.SilkS")
-			(uuid "3a5786f6-1b46-4557-afb8-b2b24ff5d2b6")
+			(uuid "9003d915-c9ed-47fe-95ac-64c9d99ae6f5")
 		)
 		(fp_line
 			(start -4.06 11.31)
@@ -607,7 +607,7 @@
 				(type default)
 			)
 			(layer "F.SilkS")
-			(uuid "0a7287f7-4c8e-4b90-855a-8874d0012972")
+			(uuid "8889ccac-f1b6-4857-8bc8-d3790982ce8c")
 		)
 		(fp_line
 			(start 4.06 -1.91)
@@ -617,7 +617,7 @@
 				(type default)
 			)
 			(layer "F.SilkS")
-			(uuid "7edf755b-f40d-4f05-b34a-85136187b961")
+			(uuid "748c9fb3-b0ef-4123-9ffe-f3772dcb2b2d")
 		)
 		(fp_line
 			(start 4.06 11.31)
@@ -627,7 +627,7 @@
 				(type default)
 			)
 			(layer "F.SilkS")
-			(uuid "359ecf0a-3174-4213-b6de-74be1960636c")
+			(uuid "83ffde30-25d5-43b7-9c83-00e05ec62e1b")
 		)
 		(fp_rect
 			(start -4.2 -2.05)
@@ -638,7 +638,7 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(uuid "e8417acf-7330-405c-b6d9-305af5aa961a")
+			(uuid "8956e4d9-ebb4-4ad6-94cf-196f00032594")
 		)
 		(fp_line
 			(start -3.95 -1.8)
@@ -648,7 +648,7 @@
 				(type default)
 			)
 			(layer "F.Fab")
-			(uuid "9508bbc1-15ca-45cb-88cb-b14ec49b6146")
+			(uuid "b7eb4dcf-6f63-4a3e-b501-7973b0c138ad")
 		)
 		(fp_line
 			(start -3.95 11.2)
@@ -658,7 +658,7 @@
 				(type default)
 			)
 			(layer "F.Fab")
-			(uuid "c3968351-1e5e-4304-9ab1-e647faaf2e36")
+			(uuid "cf94723d-fb33-4906-a264-ce02b962d26c")
 		)
 		(fp_line
 			(start 3.95 -1.8)
@@ -668,7 +668,7 @@
 				(type default)
 			)
 			(layer "F.Fab")
-			(uuid "0d7505d4-20f9-487c-bcff-35815997dce5")
+			(uuid "c281c396-82d1-4fc0-b080-751d86b642a0")
 		)
 		(fp_line
 			(start 3.95 11.2)
@@ -678,7 +678,7 @@
 				(type default)
 			)
 			(layer "F.Fab")
-			(uuid "d77653b4-cd7f-4dea-99c1-6268bd94a683")
+			(uuid "2815b9ea-4d6c-4ef1-9893-8d8fd64ab6ea")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 2.59 0)
